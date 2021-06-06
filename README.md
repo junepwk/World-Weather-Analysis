@@ -1,7 +1,7 @@
 # WeatherPy with Python APIs
 
 ## Overview 
-The goal is to use APIs keys to request data from OpenWeatherMap and Google Maps to create an application where users could input their weather preferences to filter the data for potential travel destinations and nearby hotels. 
+The goal was to use APIs keys to request data from OpenWeatherMap and Google Maps to create an application where users could input their weather preferences to filter the data for potential travel destinations and nearby hotels. 
 
 ## Resources
 - Software: Jupyter Notebook 6.3.0, Python 3.7.10
