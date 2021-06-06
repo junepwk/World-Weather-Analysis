@@ -13,16 +13,24 @@ The goal is to use APIs keys to request data from OpenWeatherMap and Google Maps
 - Generated a set of 2,000 random latitudes and longitudes
 - Retrieved the nearest city name
 - Lastly, performed an API call with OpenWeatherMap
+
 Click [here](https://github.com/junepwk/world-weather-analysis/tree/main/weather_database) to view the weather database.
 
 ### Customer Travel Destinations Map
 - Used input statements to retrieve customer weather preferences
 - Used the preferences to filter and identify potential travel locations nd nearby hotels
 - Displayed destinations on a marker layer map with pop-up markers
+
 Click [here](https://github.com/junepwk/world-weather-analysis/tree/main/vacation_search) to view the code/resources used to create a customer travel destination map.
+
+![weatherpy_vacation_map](https://github.com/junepwk/world-weather-analysis/blob/main/vacation_search/weatherpy_vacation_map.png)
 
 ### Travel Itinerary Map
 - Used Google Directions API to create a travel itinerary
 - Displayed the route between cities 
 - Created a marker layer map with pop-up marker for each city on the itinerary
+
 Click [here](https://github.com/junepwk/world-weather-analysis/tree/main/vacation_itinerary) to view the code/resources used to create a travel itinerary map.
+
+![weatherpy_travel_map](https://github.com/junepwk/world-weather-analysis/blob/main/vacation_itinerary/weatherpy_travel_map.png)
+
