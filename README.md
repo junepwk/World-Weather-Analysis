@@ -28,6 +28,9 @@ The goal was to use APIs keys to request data from OpenWeatherMap and Google Map
 - Software: Jupyter Notebook 6.3.0, Python 3.7.10
 - Library: Pandas, Numpy, CitiPy, Requests, Gmaps
 
+
+<p align="right">(<a href="#top">back to top</a>)</p>
+
 ## Data
 
 ### Retrieving Weather Data
@@ -36,6 +39,9 @@ The goal was to use APIs keys to request data from OpenWeatherMap and Google Map
 - Lastly, performed an API call with OpenWeatherMap
 
 Click [here](https://github.com/junepwk/world-weather-analysis/tree/main/weather_database) to view the weather database.
+
+
+<p align="right">(<a href="#top">back to top</a>)</p>
 
 ### Customer Travel Destinations Map
 - Used input statements to retrieve customer weather preferences
@@ -46,6 +52,9 @@ Click [here](https://github.com/junepwk/world-weather-analysis/tree/main/vacatio
 
 ![weatherpy_vacation_map](https://github.com/junepwk/world-weather-analysis/blob/main/vacation_search/weatherpy_vacation_map.png)
 
+
+<p align="right">(<a href="#top">back to top</a>)</p>
+
 ### Travel Itinerary Map
 - Used Google Directions API to create a travel itinerary
 - Displayed the route between cities 
@@ -54,4 +63,7 @@ Click [here](https://github.com/junepwk/world-weather-analysis/tree/main/vacatio
 Click [here](https://github.com/junepwk/world-weather-analysis/tree/main/vacation_itinerary) to view the code/resources used to create a travel itinerary map.
 
 ![weatherpy_travel_map](https://github.com/junepwk/world-weather-analysis/blob/main/vacation_itinerary/weatherpy_travel_map.png)
+
+
+<p align="right">(<a href="#top">back to top</a>)</p>
 
