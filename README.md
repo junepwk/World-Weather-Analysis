@@ -1,5 +1,25 @@
 # WeatherPy with Python APIs
 
+<details>
+  <summary>Table of Contents</summary>
+  <ol>
+    <li>
+      <a href="#overview">Overview</a>
+    </li>
+    <li>
+      <a href="#resources">Resources</a>
+    </li>
+    <li>
+      <a href="#data">Data</a>
+      <ul>
+        <li><a href="#retrieving-weather-data">Retrieving Weather Data</a></li>
+        <li><a href="#customer-travel-destinations-map">Customer Travel Destinations Map</a></li>
+        <li><a href="#travel-itinerary-map">Travel Itinerary Map</a></li>
+      </ul>
+    </li>
+  </ol>
+</details>
+
 ## Overview 
 The goal was to use APIs keys to request data from OpenWeatherMap and Google Maps to create an application where users could input their weather preferences to filter the data for potential travel destinations and nearby hotels. 
 
