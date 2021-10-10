@@ -26,7 +26,7 @@ The goal was to use APIs keys to request data from OpenWeatherMap and Google Map
 ## Resources
 - Data Source: weatherpy_database.csv, weatherpy_vacation.csv
 - Software: Jupyter Notebook 6.3.0, Python 3.7.10
-- Library: Pandas, Numpy, CitiPy, Requests, Gmaps
+- Library: Pandas, Numpy, [CitiPy](https://github.com/wingchen/citipy), Requests, Gmaps
 
 
 <p align="right">(<a href="#top">back to top</a>)</p>
