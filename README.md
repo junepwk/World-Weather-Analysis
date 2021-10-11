@@ -33,9 +33,9 @@ The goal was to use APIs keys to request data from OpenWeatherMap and Google Map
     - Numpy
     - [CitiPy](https://github.com/wingchen/citipy)
     - [Requests](https://requests.kennethreitz.org/en/master/)
-    - Gmaps
 - Tool:
     - [OpenWeatherMap API](https://openweathermap.org/api)
+    - [Gmap API](https://mapsplatform.google.com/)
 
 
 <p align="right">(<a href="#top">back to top</a>)</p>
