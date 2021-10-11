@@ -24,16 +24,18 @@
 The goal was to use APIs keys to request data from OpenWeatherMap and Google Maps to create an application where users could input their weather preferences to filter the data for potential travel destinations and nearby hotels. 
 
 ## Resources
-- Data Source: weatherpy_database.csv, weatherpy_vacation.csv
-- Software: 
+- Data Sources: weatherpy_database.csv, weatherpy_vacation.csv
+- Softwares: 
     - Jupyter Notebook 6.3.0
     - Python 3.7.10
-- Library: 
+- Libraries: 
     - Pandas
     - Numpy
+    - Matplotlib
+    - Datetime
     - [CitiPy](https://github.com/wingchen/citipy)
     - [Requests](https://requests.kennethreitz.org/en/master/)
-- Tool:
+- Tools:
     - [OpenWeatherMap API](https://openweathermap.org/api)
     - [Gmap API](https://mapsplatform.google.com/)
 
