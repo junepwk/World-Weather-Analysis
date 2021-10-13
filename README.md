@@ -54,6 +54,14 @@ The goal was to use APIs keys to request data from OpenWeatherMap and Google Map
   pip install citipy
   ```
 
+### Installation 
+1. Get a free API Key at [OpenWeatherMap API](https://openweathermap.org/api)
+2. Click "sign up" and create an account.
+3. Sign in and click on "API keys"
+4. Enter your API in ```config.py```
+   ```
+   weather_api_key = "ENTER YOUR API"
+   ```
 
 
 <p align="right">(<a href="#top">back to top</a>)</p>
