@@ -10,6 +10,7 @@
       <a href="#getting-started">Getting Started</a>
       <ul>
         <li><a href="#prerequisites">Prerequisites</a></li>
+        <li><a href="#installation">Installation</a></li>
       </ul>
     </li>
     <li>
@@ -53,6 +54,13 @@ The goal was to use APIs keys to request data from OpenWeatherMap and Google Map
   ```
   pip install citipy
   ```
+* Go to the [Requests](https://requests.kennethreitz.org/en/master/) document for more information.
+  ```
+  import requests
+  requests.__version__
+  ```
+   ###### **Note**: The output should be version 2.22.0 or later.
+
 
 ### Installation 
 1. Get a free API Key at [OpenWeatherMap API](https://openweathermap.org/api)
