@@ -8,6 +8,9 @@
     </li>
     <li>
       <a href="#getting-started">Getting Started</a>
+      <ul>
+        <li><a href="#prerequisites">Prerequisites</a></li>
+      </ul>
     </li>
     <li>
       <a href="#data">Data</a>
@@ -44,6 +47,14 @@ The goal was to use APIs keys to request data from OpenWeatherMap and Google Map
     - [OpenWeatherMap API](https://openweathermap.org/api)
     - [Gmap API](https://mapsplatform.google.com/)
 </details>
+
+### Prerequisites
+* Go to the [Citipy](https://github.com/wingchen/citipy) repo for further details and how it can be used. 
+  ```
+  pip install citipy
+  ```
+
+
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
