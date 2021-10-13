@@ -1,13 +1,13 @@
 # WeatherPy with Python APIs
 
-<details>
-  <summary>Table of Contents</summary>
+
+**Table of Contents**
   <ol>
     <li>
       <a href="#overview">Overview</a>
     </li>
     <li>
-      <a href="#resources">Resources</a>
+      <a href="#getting-started">Getting Started</a>
     </li>
     <li>
       <a href="#data">Data</a>
@@ -18,16 +18,21 @@
       </ul>
     </li>
   </ol>
-</details>
+
 
 ## Overview 
 The goal was to use APIs keys to request data from OpenWeatherMap and Google Maps to create an application where users could input their weather preferences to filter the data for potential travel destinations and nearby hotels. 
 
-## Resources
-- Data Sources: weatherpy_database.csv, weatherpy_vacation.csv
-- Softwares: 
-    - Jupyter Notebook 6.3.0
-    - Python 3.7.10
+## Getting Started
+<details>
+<summary>Resources</summary>
+  
+* Data Sources: 
+    * [weatherpy_database.csv](https://github.com/junepwk/World-Weather-Analysis/blob/main/weather_database/weatherpy_database.csv)
+    * [weatherpy_vacation.csv](https://github.com/junepwk/World-Weather-Analysis/blob/main/vacation_search/weatherpy_vacation.csv)
+* Softwares: 
+    * Jupyter Notebook 6.3.0
+    * Python 3.7.10
 - Libraries: 
     - Pandas
     - Numpy
@@ -38,7 +43,7 @@ The goal was to use APIs keys to request data from OpenWeatherMap and Google Map
 - Tools:
     - [OpenWeatherMap API](https://openweathermap.org/api)
     - [Gmap API](https://mapsplatform.google.com/)
-
+</details>
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
