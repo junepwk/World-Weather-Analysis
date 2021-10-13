@@ -63,14 +63,24 @@ The goal was to use APIs keys to request data from OpenWeatherMap and Google Map
 
 
 ### Installation 
-1. Get a free API Key at [OpenWeatherMap API](https://openweathermap.org/api)
-2. Click "sign up" and create an account.
-3. Sign in and click on "API keys"
-4. Enter your API in ```config.py```
-   ```
-   weather_api_key = "ENTER YOUR API"
-   ```
 
+**OpenWeatherMap API**
+  1. Get a free API Key at [OpenWeatherMap API](https://openweathermap.org/api)
+  2. Click "sign up" and create an account.
+  3. Sign in and click on "API keys"
+  4. Enter your API in ```config.py```
+     ```
+     weather_api_key = "ENTER YOUR API"
+     ```
+       
+**Gmap API**
+  1. Navigate to [Gmap API](https://mapsplatform.google.com/)
+  2. Click on "Get Started"
+  3. Check the "Maps" and "Places" boxes, and then click "Continue"
+  4. After setting up your account, add your API in ```config.py```
+     ```
+     g_key = "ENTER YOUR API"
+     ```
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
