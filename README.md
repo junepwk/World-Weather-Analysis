@@ -14,7 +14,7 @@
       </ul>
     </li>
     <li>
-      <a href="#data">Data</a>
+      <a href="#usage">Usage</a>
       <ul>
         <li><a href="#retrieving-weather-data">Retrieving Weather Data</a></li>
         <li><a href="#customer-travel-destinations-map">Customer Travel Destinations Map</a></li>
@@ -84,7 +84,7 @@ The goal was to use APIs keys to request data from OpenWeatherMap and Google Map
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
-## Data
+## Usage
 
 ### Retrieving Weather Data
 - Generated a set of 2,000 random latitudes and longitudes
