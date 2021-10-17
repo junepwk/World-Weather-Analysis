@@ -29,7 +29,7 @@ The goal was to use APIs keys to request data from OpenWeatherMap and Google Map
 
 ## Getting Started
 <details>
-<summary>Resources</summary>
+  <summary><b>Resources</b></summary>
   
 * Data Sources: 
     * [weatherpy_database.csv](https://github.com/junepwk/World-Weather-Analysis/blob/main/weather_database/weatherpy_database.csv)
